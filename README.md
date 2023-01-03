@@ -1,2 +1,2 @@
 # Cleaning-Company-Website
-  Cleaning website using Html,Css,Javascript,Jquery,Bootstrap
+  Cleaning website using Html,Css,Javascript,Jquery,Bootstrap and Scss
